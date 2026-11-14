@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.vavetek/bamroc",
+  "title": "BAMROC (Vavetek)",
+  "description": "Revit MEP clash detection and BAMROC Move/Bend clash resolution by Vavetek, from your AI app.",
+  "version": "1.3.3",
+  "websiteUrl": "https://vavetek.ai/bamroc-mcp-server-documentation/",
+  "repository": {
+    "url": "https://github.com/VAVETEKAI/bamroc-mcp",
+    "source": "github"
+  },
+  "packages": [
+    {
+      "registryType": "mcpb",
+      "identifier": "https://github.com/VAVETEKAI/bamroc-mcp/releases/download/v1.3.3/bamroc-1.3.3.mcpb",
+      "fileSha256": "36d8ec30223d915ce69a7931302d1420a8ef10352e451e5d51789bcda3ffd54f",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}

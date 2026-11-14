@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bamroc": {
+      "command": "${CLAUDE_PLUGIN_ROOT}/bin/bamroc.cmd",
+      "args": []
+    }
+  }
+}

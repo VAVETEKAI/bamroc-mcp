@@ -1,0 +1,16 @@
+{
+  "name": "vavetek",
+  "description": "BAMROC by Vavetek: Revit MEP clash detection and BAMROC Move/Bend clash resolution for Claude.",
+  "owner": {
+    "name": "VAVETEK AI PRIVATE LIMITED",
+    "email": "info@vavetek.ai"
+  },
+  "plugins": [
+    {
+      "name": "bamroc",
+      "source": "./",
+      "description": "Find and fix MEP clashes in Autodesk Revit with BAMROC Move and Bend by Vavetek.",
+      "version": "1.3.3"
+    }
+  ]
+}
