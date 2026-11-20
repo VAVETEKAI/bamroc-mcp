@@ -1,0 +1,11 @@
+{
+  "name": "bamroc",
+  "displayName": "BAMROC",
+  "version": "1.3.3",
+  "description": "Find and fix MEP clashes in Autodesk Revit with BAMROC Move and Bend by Vavetek, and build your own BAMROC agents, scripts and Revit buttons. Uses the BAMROC MCP server from the BAMROC AI Connector setup on Windows.",
+  "author": { "name": "VAVETEK AI PRIVATE LIMITED", "email": "info@vavetek.ai", "url": "https://vavetek.ai" },
+  "homepage": "https://vavetek.ai/bamroc-mcp-server-documentation/",
+  "repository": "https://github.com/VAVETEKAI/bamroc-mcp",
+  "license": "LicenseRef-Proprietary",
+  "keywords": ["revit", "bim", "mep", "clash-detection", "bamroc", "autodesk"]
+}
