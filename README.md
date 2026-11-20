@@ -23,7 +23,7 @@ Nothing that sends clashes to BAMROC, changes your model or installs something h
 
 1. **Install BAMROC (Windows):** run the signed
    [BAMROC AI Connector setup](https://bamroc-downloads.vavetek.workers.dev/bamroc/latest/BAMROC-AI-Connector-Setup.exe)
-   (also `winget install Vavetek.BAMROCAIConnector`, or the BAMROC AI Connector app on the Autodesk App Store). It
+   (the BAMROC AI Connector app is also coming to the Autodesk App Store). It
    installs the Revit add-in and the BAMROC MCP server, and connects Claude Desktop.
 2. **Optional, the Claude plugin** (adds the BAMROC skill and server to Claude Code and other plugin-enabled Claude
    apps): in Claude Code, run `/plugin marketplace add VAVETEKAI/bamroc-mcp`, then `/plugin install bamroc@vavetek`.

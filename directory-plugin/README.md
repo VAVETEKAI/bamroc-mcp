@@ -13,7 +13,7 @@ The BAMROC tools come from the BAMROC MCP server, which this plugin does not inc
 
 1. **Install BAMROC (Windows):** run the signed
    [BAMROC AI Connector setup](https://bamroc-downloads.vavetek.workers.dev/bamroc/latest/BAMROC-AI-Connector-Setup.exe)
-   (also `winget install Vavetek.BAMROCAIConnector`, or the BAMROC AI Connector app on the Autodesk App Store). It
+   (the BAMROC AI Connector app is also coming to the Autodesk App Store). It
    installs the Revit add-in and the BAMROC MCP server, and connects Claude Desktop. For Claude Code: Start menu >
    BAMROC AI Connector > Connect Claude Code, then restart Claude Code.
 2. Add this plugin, open Revit and your model, and ask Claude: *"Check my BAMROC setup, then find the clashes in my
